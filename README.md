@@ -12,7 +12,7 @@
     <div style='margin-left: 15px; padding: 10px;'>
         <h3>
           <b>Award Title：</b>
-          <a target="_blank"  href=''>见习工程师能力证书（CSDN）</a>
+          <a target="_blank"  href='https://ks.csdn.net/'>C1-见习工程师能力认证（CSDN）</a>
         </h3>
         <p>
           <b>Award Platform：</b>
@@ -28,10 +28,10 @@
         </p>
         <p>
           <b>Course Link：</b>
-          <a target="_blank"  href=''></a>
+          <a target="_blank"  href='https://ac.csdn.net/c1outline.html'>https://ac.csdn.net/c1outline.html</a>
         </p>
         <p>
-          <b>Certificate NO.：</b>
+          <b>Certificate NO.：</b>C1202201241643004194830126
         </p>
     </div>
 </div>
@@ -47,11 +47,11 @@
     <div style='margin-left: 15px; padding: 0 10px;'>
         <h3>
           <b>Award Title：</b>
-          <a target="_blank"  href=''>鸿蒙原生移动应用开发学习合格证</a>
+          <a target="_blank"  href='https://www.xiaoqiqiao.com/university/#/1/3980577/certificateQuery'>鸿蒙原生移动应用开发学习合格证</a>
         </h3>
         <p>
           <b>Award Platform：</b>
-          <a target="_blank"  href=''>深圳市职业技能提升公益性培训</a>
+          <a target="_blank"  href='https://www.xiaoqiqiao.com/university/#/1/3980577/certificateQuery'>深圳市职业技能提升公益性培训</a>
         </p>
         <p>
           <b>Status：</b>
@@ -59,7 +59,7 @@
         </p>
         <p>
           <b>Course Link：</b>
-          <a target="_blank"  href=''></a>
+          <a target="_blank"  href='https://www.xiaoqiqiao.com/university/#/1/3980577/certificateQuery'>https://www.xiaoqiqiao.com/university/#/1/3980577/certificateQuery</a>
         </p>
         <p>
           <b>Date：</b>2024-12
