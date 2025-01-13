@@ -1,4 +1,5 @@
 # My Awards
+
 <br/>
 
 ## 综合能力
@@ -1649,7 +1650,7 @@
 <hr />
 <br /><br />
 
-### Updating......
+### Updating
 
 <div style="border-radius: 10px; border: 1px solid #ccc; padding: 15px; display: flex; align-items: top;">
     <a target="_blank"  href='./images'>
