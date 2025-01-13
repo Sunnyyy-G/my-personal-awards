@@ -6,10 +6,10 @@
 ### CSDN 工程师能力
 
 <div style="border-radius: 10px; border: 1px solid #ccc; padding: 15px; display: flex; align-items: top;">
-    <a target="_blank"  href='./images/01-见习工程师能力证书（CSDN）.jpg'>
+    <a target="_blank"  href='./images/01-见习工程师能力证书（CSDN）.jpg' style="display: inline-block;">
       <img src="./images/01-见习工程师能力证书（CSDN）.jpg" alt="示例图片" style="width: 400px; height: auto; border-radius: 5px;" />
     </a>
-    <div style='margin-left: 15px; padding: 10px;'>
+    <div style='display: inline-block; margin-left: 15px; padding: 10px;'>
         <h3>
           <b>Award Title：</b>
           <a target="_blank"  href='https://ks.csdn.net/'>C1-见习工程师能力认证（CSDN）</a>
