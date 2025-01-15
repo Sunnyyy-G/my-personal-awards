@@ -571,7 +571,7 @@
     <div style='margin-left: 15px; padding: 10px;'>
         <h3>
           <b>Award Title：</b>
-          <a target="_blank"  href='https://www.w3cschool.cn/codecamp/newList/javascriptbase'>17-《JavaScript 基础实战》编程实战证书</a>
+          <a target="_blank"  href='https://www.w3cschool.cn/codecamp/newList/javascriptbase'>《JavaScript 基础实战》编程实战证书</a>
         </h3>
         <p>
           <b>Award Platform：</b>
@@ -1103,7 +1103,7 @@
           <a target="_blank"  href='https://www.w3cschool.cn/minicourse/play/gitcourse'>https://www.w3cschool.cn/minicourse/play/gitcourse</a>
         </p>
         <p>
-          <b>Certificate NO.：</b>******
+          <b>Certificate NO.：</b>W0120230317654561280292
         </p>
     </div>
 </div>
@@ -1358,7 +1358,7 @@
     <div style='margin-left: 15px; padding: 10px;'>
         <h3>
           <b>Award Title：</b>
-          <a target="_blank"  href="https://www.w3cschool.cn/search?target=content&w=react">《React系列》课程认</a>
+          <a target="_blank"  href="https://www.w3cschool.cn/search?target=content&w=react">《React系列》课程认证</a>
         </h3>
         <p>
           <b>Award Platform：</b>
@@ -1427,7 +1427,7 @@
     <div style='margin-left: 15px; padding: 10px;'>
         <h3>
           <b>Award Title：</b>
-          <a target="_blank"  href="https://www.w3cschool.cn/minicourse/play/txyts2020">《TypeScript快速入门（通俗易懂）》认证</a>
+          <a target="_blank"  href="https://www.w3cschool.cn/minicourse/play/txyts2020">《TypeScript快速入门（通俗易懂）》课程认证</a>
         </h3>
         <p>
           <b>Award Platform：</b>
